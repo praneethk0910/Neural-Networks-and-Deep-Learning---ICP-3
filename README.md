@@ -4,15 +4,23 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 
 Name: Praneeth Kumar Annapureddy ID: 700747594
 
-1.Write a program that takes two strings from the user: first_name, last_name. Pass these variables tofull name.
+1. Create a class Employee and then do the following
 
-1.2 Write function named “string_alternative” that returns every other char in the full_name string.
+Create a data member to count the number of Employees
+ 
+Create a constructor to initialize name, family, salary, department
 
-2.Write a python program to find the wordcount in a file (input.txt) for each line and then print the output.
+Create a function to average salary
 
-3.Write a program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using:
+Create a Fulltime Employee class and it should inherit the properties of Employee class
 
-Nested Interactive loop.
-List comprehensions
+Create the instances of Fulltime Employee class and Employee class and call their member functions.
+
+2.Using NumPy create random vector of size 20 having only float in the range 1-20.
+
+Then reshape the array to 4 by 5
+
+Then replace the max in each row by 0 (axis=1)
+
 Code File - ICP_3_Spring24.ipynb Document- ICP_3_Spring24.DOCX
 
