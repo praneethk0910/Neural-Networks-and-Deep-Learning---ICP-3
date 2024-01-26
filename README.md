@@ -4,7 +4,7 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 
 Name: Praneeth Kumar Annapureddy ID: 700747594
 
-1. Create a class Employee and then do the following
+1.Create a class Employee and then do the following
 
 Create a data member to count the number of Employees
  
