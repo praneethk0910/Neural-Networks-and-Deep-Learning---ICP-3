@@ -24,3 +24,5 @@ Then replace the max in each row by 0 (axis=1)
 
 Code File - ICP_3_Spring24.ipynb Document- ICP_3_Spring24.DOCX
 
+Video Link: https://drive.google.com/file/d/1AX0s2NdDBlj7ecDmRRd88foCqg5SabUu/view?usp=sharing
+
