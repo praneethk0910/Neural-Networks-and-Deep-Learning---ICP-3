@@ -1,6 +1,6 @@
 # Neural-Networks-and-Deep-Learning---ICP-3
 
-Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-3
+Spring 2024: CS5720: Neural Network Deep Learning: Programming Assignment-3
 
 Name: Praneeth Kumar Annapureddy ID: 700747594
 
